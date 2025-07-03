@@ -6,7 +6,7 @@
 
 💡Driven by curiosity and creativity, I'm always looking to build, learn, and grow.<br>
 
-🖥️ I’m currently working on Front-End Development, focusing on HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS, Git, GitHub, VS Code, and building responsive, mobile-  first web apps.<br>
+🖥️ I’m currently working on Front-End Development, focusing on HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS and building responsive, mobile-  first web apps.<br>
 
 🚀 Let's connect and collaborate on exciting ideas!<br>
 
@@ -15,6 +15,38 @@
 📍 Coimbatore, India.
 
 __________________________________________________________________________________________________________________________________________________________________________
+## 🚀 Skills 
+🎨 Figma – Proficient in designing clean, user-friendly interfaces
+
+🖥️ Web Design – Beginner level, focusing on responsive and aesthetic layouts
+
+🖌️ Adobe Photoshop – Skilled in image editing and graphic design
+
+🕹️ Autodesk Maya – Experienced in 3D modeling and animation
+
+_________________________________________________________________________________________________________________________________________________________________________
+## 🌐Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)]( www.linkedin.com/in/joshnie-thangaraj-98b208362)
+
+💬 Feel free to connect with me on LinkedIn; I’m always open to networking and new opportunities!
+
+_________________________________________________________________________________________________________________________________________________________________________
+## 🛠️ Skills and Tools
+![PYTHON](https://img.shields.io/badge/PYTHON-orange?style=flat)
+![JAVA](https://img.shields.io/badge/JAVA-orange?style=flat)
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
+![CSS](https://img.shields.io/badge/CSS-orange?style=flat)
+![FIGMA](https://img.shields.io/badge/FIGMA-yellow?style=flat)
+![GITHUB](https://img.shields.io/badge/GITHUB-green?style=flat)
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
 
 
 
