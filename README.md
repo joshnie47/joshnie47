@@ -15,7 +15,7 @@
 📍 Coimbatore, India.
 
 __________________________________________________________________________________________________________________________________________________________________________
-## 🚀 Skills 
+## Skills 
 🎨 Figma – Proficient in designing clean, user-friendly interfaces
 
 🖥️ Web Design – Beginner level, focusing on responsive and aesthetic layouts
@@ -31,7 +31,7 @@ ________________________________________________________________________________
 💬 Feel free to connect with me on LinkedIn; I’m always open to networking and new opportunities!
 
 _________________________________________________________________________________________________________________________________________________________________________
-## 🛠️ Skills and Tools
+## 🛠️ Languages and Tools
 ![PYTHON](https://img.shields.io/badge/PYTHON-orange?style=flat)
 ![JAVA](https://img.shields.io/badge/JAVA-orange?style=flat)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=flat)
